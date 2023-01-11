@@ -1,0 +1,8 @@
+C:\Users\baran\Desktop\C# Projects\algoritma\SanlabSimülasyon\SanlabSimülasyon\bin\Debug\SanlabSimülasyon.exe.config
+C:\Users\baran\Desktop\C# Projects\algoritma\SanlabSimülasyon\SanlabSimülasyon\bin\Debug\SanlabSimülasyon.exe
+C:\Users\baran\Desktop\C# Projects\algoritma\SanlabSimülasyon\SanlabSimülasyon\bin\Debug\SanlabSimülasyon.pdb
+C:\Users\baran\Desktop\C# Projects\algoritma\SanlabSimülasyon\SanlabSimülasyon\obj\Debug\SanlabSimülasyonClient.csproj.AssemblyReference.cache
+C:\Users\baran\Desktop\C# Projects\algoritma\SanlabSimülasyon\SanlabSimülasyon\obj\Debug\SanlabSimülasyonClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\baran\Desktop\C# Projects\algoritma\SanlabSimülasyon\SanlabSimülasyon\obj\Debug\SanlabSimülasyonClient.csproj.CoreCompileInputs.cache
+C:\Users\baran\Desktop\C# Projects\algoritma\SanlabSimülasyon\SanlabSimülasyon\obj\Debug\SanlabSimülasyon.exe
+C:\Users\baran\Desktop\C# Projects\algoritma\SanlabSimülasyon\SanlabSimülasyon\obj\Debug\SanlabSimülasyon.pdb
